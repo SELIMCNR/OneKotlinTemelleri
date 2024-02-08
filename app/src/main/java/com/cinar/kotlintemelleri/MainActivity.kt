@@ -13,6 +13,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //lateinitden sonra değer ekle değişkene
+
+        
         text = findViewById(R.id.text)
 
         println("Hello kotlin")
